@@ -1,105 +1,4 @@
 ---
-- title: cartoon-kid-hug.gif
-  category: hug
-  path: hug/cartoon-kid-hug.gif
-  modified_time: 1736776654
-  tags:
-  - cartoon
-  - gif
-  - hug
-  - kid
-- title: hug-tysonholyfield.gif
-  category: hug
-  path: hug/hug-tysonholyfield.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hug
-  - tysonholyfield
-- title: tommy-boy-brother.gif
-  category: hug
-  path: hug/tommy-boy-brother.gif
-  modified_time: 1736776654
-  tags:
-  - boy
-  - brother
-  - gif
-  - hug
-  - tommy
-- title: hughes-carson-shocked.gif
-  category: downton-abbey
-  path: downton-abbey/hughes-carson-shocked.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - carson
-  - downton
-  - gif
-  - hughes
-  - shocked
-- title: mary-eye-roll.gif
-  category: downton-abbey
-  path: downton-abbey/mary-eye-roll.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - eye
-  - gif
-  - mary
-  - roll
-- title: mary-snarky-look.gif
-  category: downton-abbey
-  path: downton-abbey/mary-snarky-look.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - gif
-  - look
-  - mary
-  - snarky
-- title: violet-forbids.gif
-  category: downton-abbey
-  path: downton-abbey/violet-forbids.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - forbids
-  - gif
-  - violet
-- title: violet-never-wrong.gif
-  category: downton-abbey
-  path: downton-abbey/violet-never-wrong.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - gif
-  - never
-  - violet
-  - wrong
-- title: violet-shocked.gif
-  category: downton-abbey
-  path: downton-abbey/violet-shocked.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - gif
-  - shocked
-  - violet
-- title: violet-shufflin.gif
-  category: downton-abbey
-  path: downton-abbey/violet-shufflin.gif
-  modified_time: 1736776653
-  tags:
-  - abbey
-  - downton
-  - gif
-  - shufflin
-  - violet
 - title: chuck-norris.gif
   category: thumbs-up
   path: thumbs-up/chuck-norris.gif
@@ -1371,6 +1270,25 @@
   - gif
   - harleyquin
   - rimshot
+- title: conspiracy-map-animated.gif
+  category: alot
+  path: alot/conspiracy-map-animated.gif
+  modified_time: 1718823365
+  tags:
+  - alot
+  - animated
+  - conspiracy
+  - gif
+  - map
+- title: conspiracy-map.gif
+  category: alot
+  path: alot/conspiracy-map.gif
+  modified_time: 1736907870
+  tags:
+  - alot
+  - conspiracy
+  - gif
+  - map
 - title: breakfast-club-sunglasses.gif
   category: boss
   path: boss/breakfast-club-sunglasses.gif
@@ -3111,313 +3029,6 @@
   - proud
   - ron
   - swanson
-- title: 1-50-Cent-Laugh-Off-JAG.gif
-  category: hubbers
-  path: hubbers/1-50-Cent-Laugh-Off-JAG.gif
-  modified_time: 1736776654
-  tags:
-  - '1'
-  - '50'
-  - Cent
-  - JAG
-  - Laugh
-  - 'Off'
-  - gif
-  - hubbers
-- title: bboy-jag.gif
-  category: hubbers
-  path: hubbers/bboy-jag.gif
-  modified_time: 1736776654
-  tags:
-  - bboy
-  - gif
-  - hubbers
-  - jag
-- title: classic-connor.gif
-  category: hubbers
-  path: hubbers/classic-connor.gif
-  modified_time: 1736776654
-  tags:
-  - classic
-  - connor
-  - gif
-  - hubbers
-- title: github-dodgeball-tnm.gif
-  category: hubbers
-  path: hubbers/github-dodgeball-tnm.gif
-  modified_time: 1736776654
-  tags:
-  - dodgeball
-  - gif
-  - github
-  - hubbers
-  - tnm
-- title: hubmojis-afeld-hearteyes.gif
-  category: hubbers
-  path: hubbers/hubmojis-afeld-hearteyes.gif
-  modified_time: 1736776654
-  tags:
-  - afeld
-  - gif
-  - hearteyes
-  - hubbers
-  - hubmojis
-- title: hubmojis-balevine-laughing.gif
-  category: hubbers
-  path: hubbers/hubmojis-balevine-laughing.gif
-  modified_time: 1736776654
-  tags:
-  - balevine
-  - gif
-  - hubbers
-  - hubmojis
-  - laughing
-- title: hubmojis-balevine-metal.gif
-  category: hubbers
-  path: hubbers/hubmojis-balevine-metal.gif
-  modified_time: 1736776654
-  tags:
-  - balevine
-  - gif
-  - hubbers
-  - hubmojis
-  - metal
-- title: hubmojis-balevine-newsroom.gif
-  category: hubbers
-  path: hubbers/hubmojis-balevine-newsroom.gif
-  modified_time: 1736776654
-  tags:
-  - balevine
-  - gif
-  - hubbers
-  - hubmojis
-  - newsroom
-- title: hubmojis-jglovier-angry.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-angry.gif
-  modified_time: 1736776654
-  tags:
-  - angry
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-- title: hubmojis-jglovier-confused.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-confused.gif
-  modified_time: 1736776654
-  tags:
-  - confused
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-- title: hubmojis-jglovier-excited.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-excited.gif
-  modified_time: 1736776654
-  tags:
-  - excited
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-- title: hubmojis-jglovier-hearteyes.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-hearteyes.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hearteyes
-  - hubbers
-  - hubmojis
-  - jglovier
-- title: hubmojis-jglovier-indifference.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-indifference.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - indifference
-  - jglovier
-- title: hubmojis-jglovier-kudos.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-kudos.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - kudos
-- title: hubmojis-jglovier-laughing.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-laughing.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - laughing
-- title: hubmojis-jglovier-metal.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-metal.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - metal
-- title: hubmojis-jglovier-newsroom.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-newsroom.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - newsroom
-- title: hubmojis-jglovier-rollingeyes.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-rollingeyes.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - rollingeyes
-- title: hubmojis-jglovier-sad.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-sad.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - sad
-- title: hubmojis-jglovier-wink.gif
-  category: hubbers
-  path: hubbers/hubmojis-jglovier-wink.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jglovier
-  - wink
-- title: hubmojis-jonrohan-confused.gif
-  category: hubbers
-  path: hubbers/hubmojis-jonrohan-confused.gif
-  modified_time: 1736776654
-  tags:
-  - confused
-  - gif
-  - hubbers
-  - hubmojis
-  - jonrohan
-- title: hubmojis-jonrohan-metal.gif
-  category: hubbers
-  path: hubbers/hubmojis-jonrohan-metal.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - jonrohan
-  - metal
-- title: hubmojis-schacon-metal.gif
-  category: hubbers
-  path: hubbers/hubmojis-schacon-metal.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - hubmojis
-  - metal
-  - schacon
-- title: hubmojis-technoweenie-confused.gif
-  category: hubbers
-  path: hubbers/hubmojis-technoweenie-confused.gif
-  modified_time: 1736776654
-  tags:
-  - confused
-  - gif
-  - hubbers
-  - hubmojis
-  - technoweenie
-- title: jakeboxer-uh-uh-whiteboard.gif
-  category: hubbers
-  path: hubbers/jakeboxer-uh-uh-whiteboard.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - jakeboxer
-  - uh
-  - whiteboard
-- title: jasonsalez-dj.gif
-  category: hubbers
-  path: hubbers/jasonsalez-dj.gif
-  modified_time: 1736776654
-  tags:
-  - dj
-  - gif
-  - hubbers
-  - jasonsalez
-- title: joao-magic.gif
-  category: hubbers
-  path: hubbers/joao-magic.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - joao
-  - magic
-- title: joel-tim-toast.gif
-  category: hubbers
-  path: hubbers/joel-tim-toast.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hubbers
-  - joel
-  - tim
-  - toast
-- title: mdo-hiding.gif
-  category: hubbers
-  path: hubbers/mdo-hiding.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - hiding
-  - hubbers
-  - mdo
-- title: rtomayko-dance.gif
-  category: hubbers
-  path: hubbers/rtomayko-dance.gif
-  modified_time: 1736776654
-  tags:
-  - dance
-  - gif
-  - hubbers
-  - rtomayko
-- title: yes-github-yissssss.gif
-  category: hubbers
-  path: hubbers/yes-github-yissssss.gif
-  modified_time: 1736776654
-  tags:
-  - gif
-  - github
-  - hubbers
-  - 'yes'
-  - yissssss
 - title: huge-dive.gif
   category: nailed-it
   path: nailed-it/huge-dive.gif
@@ -3941,6 +3552,16 @@
   - jpg
   - there
   - what
+  - you
+- title: you-betta-werk-bw.gif
+  category: werk
+  path: werk/you-betta-werk-bw.gif
+  modified_time: 1736907944
+  tags:
+  - betta
+  - bw
+  - gif
+  - werk
   - you
 - title: hiding-in-bed.gif
   category: hiding
@@ -4670,6 +4291,15 @@
   - elephant
   - gif
   - wave
+- title: sashay-away.gif
+  category: bye
+  path: bye/sashay-away.gif
+  modified_time: 1736907975
+  tags:
+  - away
+  - bye
+  - gif
+  - sashay
 - title: cartoon-swoon.gif
   category: swoon
   path: swoon/cartoon-swoon.gif
