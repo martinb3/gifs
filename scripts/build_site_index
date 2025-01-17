@@ -5,7 +5,7 @@ require 'json'
 require 'yaml'
 
 def dir_blacklist
-  ["css", "js", "images", "script"]
+  ["css", "js", "images", "scripts", "vendor"]
 end
 
 def useless?(f)
