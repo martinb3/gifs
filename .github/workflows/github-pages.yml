@@ -40,6 +40,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Generated files
+        id: generate
+        run: |
+          bundle exec ./_scripts/build_site_index
+          echo "$(cat _includes/site-index.json  | jq '. | length') gifs indexed"
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         env:
