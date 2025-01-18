@@ -52,6 +52,7 @@ jobs:
       - name: Copy generated files to _site
         id: copy-generated
         run: |
+          find .
           cp _includes/site-index.json _site/site-index.json
           cp _includes/site-index.html _site/site-index.html
           cp _data/static_files.yml _site/static_files.yml
