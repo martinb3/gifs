@@ -3,3 +3,7 @@ _site
 .sass-cache
 
 vendor
+
+_data/static_files.yml
+_includes/site-index.html
+_includes/site-index.json
