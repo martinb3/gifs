@@ -52,10 +52,9 @@ jobs:
       - name: Copy generated files to _site
         id: copy-generated
         run: |
-          find .
-          cp _includes/site-index.json _site/site-index.json
-          cp _includes/site-index.html _site/site-index.html
-          cp _data/static_files.yml _site/static_files.yml
+          cp _includes/site-index.json /github/workspace/_site/site-index.json
+          cp _includes/site-index.html /github/workspace/_site/site-index.html
+          cp _data/static_files.yml /github/workspace/_site/static_files.yml
       - name: Upload GH pages artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
