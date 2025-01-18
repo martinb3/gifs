@@ -49,12 +49,6 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         env:
           JEKYLL_ENV: production
-      - name: Copy generated files to _site
-        id: copy-generated
-        run: |
-          cp _includes/site-index.json /github/workspace/_site/site-index.json
-          cp _includes/site-index.html /github/workspace/_site/site-index.html
-          cp _data/static_files.yml /github/workspace/_site/static_files.yml
       - name: Upload GH pages artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
