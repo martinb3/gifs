@@ -29,8 +29,15 @@ def liquid_info_for_file(path)
     "title"         => File.basename(path),
     "category"      => path.split(File::SEPARATOR)[0],
     "path"          => path,
-    "modified_time" => File.mtime(path).to_i,
-    "tags"          => tags
+    "tags"          => tags,
+
+    # cut this so we're not constantly seeing modifications to all files
+    # "modified_time" => File.mtime(path).to_i,
+
+    # alfred-specific fields
+    "arg"           => "https://gifs.martinb3.io/" + path,
+    "subtitle"      => path.split(File::SEPARATOR)[0],
+    "match"         => [File.basename(path), tags].flatten.join(" ")
   }
 end
 
@@ -43,6 +50,9 @@ dirs.each do |dir|
   end
 end
 
+alfred_output = { "items" => files }
+
+
 # Sort the files
 files.sort! { |a,b| a[:path] <=> b[:path] }
 
@@ -50,3 +60,4 @@ FileUtils.mkdir_p("_data") unless File.directory?("_data")
 FileUtils.mkdir_p("_includes") unless File.directory?("_includes")
 File.open("_data/static_files.yml", 'w') { |f| f.write(YAML.dump(files)) }
 File.open("_includes/site-index.json", 'w') { |f| f.write(JSON.dump(files)) }
+File.open("_includes/alfred-index.json", 'w') { |f| f.write(JSON.dump(alfred_output)) }

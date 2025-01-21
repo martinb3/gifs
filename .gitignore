@@ -4,6 +4,8 @@ _site
 
 vendor
 
+# generated files
 _data/static_files.yml
 _includes/site-index.html
 _includes/site-index.json
+_includes/alfred-index.json
